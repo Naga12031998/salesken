@@ -1,0 +1,32 @@
+canvas {
+    width: 1000px;
+    height: 250px;
+    margin: 2rem auto;
+}
+.pausePlay {
+    margin-left: 450px;
+    border: 1px solid blue;
+    border-radius: 45%;
+    width: 50px;
+}
+
+#parentDiv { 
+    margin-left: 450px; 
+    width: 120px;
+}
+
+#childDiv {
+    text-align: center;
+    border: 1px solid blue; 
+    border-radius: 40%;
+}
+
+#containerStyle {
+    margin: 20px;
+}
+
+#icon {
+    margin: 10px; 
+    color: blue; 
+    font-size: 40px;
+}
